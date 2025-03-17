@@ -1,0 +1,4 @@
+tasks.export = 'uv run marimo export html-wasm notebook.py -o public --mode run'
+
+[tools]
+uv = "latest"
